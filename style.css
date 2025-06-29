@@ -1,0 +1,8 @@
+/* Tailwind CDNの補助用。必要に応じてカスタマイズ可能 */
+body {
+  transition: background-color 0.4s;
+}
+
+#timerDisplay {
+  letter-spacing: 0.06em;
+}
